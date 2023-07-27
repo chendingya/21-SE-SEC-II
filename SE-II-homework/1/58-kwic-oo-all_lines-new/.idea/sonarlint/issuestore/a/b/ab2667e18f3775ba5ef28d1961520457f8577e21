@@ -1,0 +1,12 @@
+
+v
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾§£™8¢Êª¨þ0
+“
+java:S1319‹"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’íÕàúÿÿÿÿ8¢Êª¨þ0
+r	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¡§Êþÿÿÿÿ8¢Êª¨þ0
+j
+java:S2095€"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(æéþÏ8¾Êª¨þ0
+n
+java:S2095_"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(õéµ¨ûÿÿÿÿ8¾Êª¨þ0
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ŽËÒÛùÿÿÿÿ8ÃÊª¨þ0
+U	java:S106q"9Replace this use of System.out or System.err by a logger.(¾ …ê8ÃÊª¨þ0

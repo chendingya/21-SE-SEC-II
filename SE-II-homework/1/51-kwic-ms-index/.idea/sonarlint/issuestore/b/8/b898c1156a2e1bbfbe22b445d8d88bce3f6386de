@@ -1,0 +1,28 @@
+
+v
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾§£™8ÇË ©þ0
+s	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ù‹Äÿÿÿÿÿ8ÇË ©þ0
+j
+java:S2095«"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(æéþÏ8ßË ©þ0
+X	java:S125"<This block of commented-out lines of code should be removed.(Ä„ù§8ßË ©þ0
+m	java:S116b"QRename this field "chars_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î Á°8àË ©þ0
+w	java:S116i"VRename this field "line_index_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§õÆ³ÿÿÿÿÿ8àË ©þ0
+w	java:S116t"[Rename this field "circular_shifts_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜°è±8àË ©þ0
+t	java:S116{"XRename this field "alphabetized_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šü£â8àË ©þ0
+¤
+java:S1186ƒ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÅˆèÒþÿÿÿÿ8àË ©þ0
+[	java:S106³"9Replace this use of System.out or System.err by a logger.(ŽËÒÛùÿÿÿÿ8äË ©þ0
+V	java:S106·"9Replace this use of System.out or System.err by a logger.(¾ …ê8äË ©þ0
+V	java:S106û"9Replace this use of System.out or System.err by a logger.(çÿðí8èË ©þ0
+P
+java:S1128&"4Remove this unused import 'java.io.CharArrayWriter'.(ãÑâ,8¥ù ©þ0
+X
+java:S1128+"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñþÿÿÿÿ8¥ù ©þ0
+G
+java:S1068b"*Remove this unused "chars_" private field.(Î Á°8éË ©þ0
+Q
+java:S1068i"/Remove this unused "line_index_" private field.(§õÆ³ÿÿÿÿÿ8éË ©þ0
+Q
+java:S1068t"4Remove this unused "circular_shifts_" private field.(˜°è±8éË ©þ0
+N
+java:S1068{"1Remove this unused "alphabetized_" private field.(šü£â8éË ©þ0

@@ -1,0 +1,7 @@
+
+…
+java:S1319b"cThe type of "arr" should be an interface such as "List" rather than the implementation "ArrayList".(àýßžüÿÿÿÿ8Û®ü§þ0
+
+java:S1319g"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(°»†8±¨þ0
+r	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ù‹Äÿÿÿÿÿ8¤òƒ¨þ0
+g	java:S116>"RRename this field "shifts_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÝŒ’

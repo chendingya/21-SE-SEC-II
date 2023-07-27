@@ -1,0 +1,11 @@
+
+g	java:S1167"RRename this field "sorted_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(๖์ว
+h	java:S116>"SRename this field "shifter_" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ฤ–
+—
+java:S1186`"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(กตฯ
+@
+java:S11977"*Move the array designators [] to the type.(๖์ว
+M
+java:S1172`"7Remove these unused method parameters "root", "bottom".(กตฯ
+C
+java:S1144`"-Remove this unused private "siftDown" method.(กตฯ
